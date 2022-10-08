@@ -19,7 +19,11 @@ Projeto que realizei na Trybe,  objetivo desse projeto era criar um mini game qu
 
 ## Uso
 
+A pessoa usuária pode iniciar o jogo clicando no botão de play, ao iniciar o jogo irá aparecer na tela um código RGB referente a cor qual ela deve selecionar, caso ela selecione a cor correta irá aparecer uma mensagem "Acertou!" e será acrescentado 3 pontos no placar, caso a pessoa clique na cor errada irá aparecer a mensagem "Errou! Tente novamente!"
+
 ![Color Gess Gif](./projectGif.gif)
+
+Caso a pessoa usuária queira continuar o jogo ou pular o atual, ela deve clicar no botão next para prosseguir, os pontos são acomulativos então ele não será resetado.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -27,6 +31,6 @@ Projeto que realizei na Trybe,  objetivo desse projeto era criar um mini game qu
 
 Renan Fernandes - [Linkedin](https://www.linkedin.com/in/orenanfernandes/)
 
-Project Link: https://github.com/RenanFernandess/project-color-guess
+Link do Projeto: https://github.com/RenanFernandess/project-color-guess
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
