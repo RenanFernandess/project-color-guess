@@ -5,7 +5,7 @@
 
 ![Color Guess Screen Shot](./projectImage.png)
 
-Projeto que realizei na Trybe,  objetivo desse projeto era criar um mini game que mostra um código RGB e seis cores na tela e a pessoa usuária tem que selecionar a cor correspondente ao código RGB, se a pessoa acerta ganha 3 pontos, caso contrário nada acontece.
+Projeto que realizei na [Trybe](https://github.com/tryber),  objetivo desse projeto era criar um mini game que mostra um código RGB e seis cores na tela e a pessoa usuária tem que selecionar a cor correspondente ao código RGB, se a pessoa acerta ganha 3 pontos, caso contrário nada acontece.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -31,6 +31,6 @@ Caso a pessoa usuária queira continuar o jogo ou pular o atual, ela deve clicar
 
 Renan Fernandes - [Linkedin](https://www.linkedin.com/in/orenanfernandes/)
 
-Link do Projeto: https://github.com/RenanFernandess/project-color-guess
+Link do Projeto: [gitHub](https://github.com/RenanFernandess/project-color-guess)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
